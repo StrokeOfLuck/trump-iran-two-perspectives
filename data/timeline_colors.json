@@ -1,0 +1,399 @@
+[
+  {
+    "event_index": 0,
+    "unique_event_day_posts": 2,
+    "winner": "Threat",
+    "color": "#9a4949",
+    "means": {
+      "Threat": 0.8182908892631531,
+      "Victory": 0.7978043854236603,
+      "Diplomacy": 0.012981237843632698,
+      "Ceasefire / Ending": 0.1844196654856205,
+      "Blame Allies": 0.0446703415364027,
+      "Media Criticism": 0.49984461069107056
+    },
+    "ties": [
+      "Threat"
+    ]
+  },
+  {
+    "event_index": 1,
+    "unique_event_day_posts": 1,
+    "winner": "Diplomacy",
+    "color": "#4b719c",
+    "means": {
+      "Threat": 0.17673583328723907,
+      "Victory": 0.6196945905685425,
+      "Diplomacy": 0.802966296672821,
+      "Ceasefire / Ending": 0.4647217094898224,
+      "Blame Allies": 0.0007572337635792792,
+      "Media Criticism": 0.070813849568367
+    },
+    "ties": [
+      "Diplomacy"
+    ]
+  },
+  {
+    "event_index": 2,
+    "unique_event_day_posts": 1,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.032937705516815186,
+      "Victory": 0.6283805966377258,
+      "Diplomacy": 0.048978012055158615,
+      "Ceasefire / Ending": 0.33660632371902466,
+      "Blame Allies": 0.01367999892681837,
+      "Media Criticism": 0.14775033295154572
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 3,
+    "unique_event_day_posts": 2,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.646808460354805,
+      "Victory": 0.9592220187187195,
+      "Diplomacy": 0.0035056837368756533,
+      "Ceasefire / Ending": 0.4275336265563965,
+      "Blame Allies": 0.5022549945861101,
+      "Media Criticism": 0.6939014196395874
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 4,
+    "unique_event_day_posts": 1,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.07073614746332169,
+      "Victory": 0.9915895462036133,
+      "Diplomacy": 0.3207983374595642,
+      "Ceasefire / Ending": 0.8019712567329407,
+      "Blame Allies": 0.015833808109164238,
+      "Media Criticism": 0.21610794961452484
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 5,
+    "unique_event_day_posts": 1,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.826682984828949,
+      "Victory": 0.9948158860206604,
+      "Diplomacy": 0.0607040598988533,
+      "Ceasefire / Ending": 0.15918828547000885,
+      "Blame Allies": 0.010923916473984718,
+      "Media Criticism": 0.16255000233650208
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 6,
+    "unique_event_day_posts": 2,
+    "winner": "Threat",
+    "color": "#9a4949",
+    "means": {
+      "Threat": 0.7306157052516937,
+      "Victory": 0.6134224385023117,
+      "Diplomacy": 0.3166128543089144,
+      "Ceasefire / Ending": 0.3468070924282074,
+      "Blame Allies": 0.014669741678517312,
+      "Media Criticism": 0.17336037568747997
+    },
+    "ties": [
+      "Threat"
+    ]
+  },
+  {
+    "event_index": 7,
+    "unique_event_day_posts": 2,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.6710660606622696,
+      "Victory": 0.968791663646698,
+      "Diplomacy": 0.06992270145565271,
+      "Ceasefire / Ending": 0.438730426132679,
+      "Blame Allies": 0.9447927176952362,
+      "Media Criticism": 0.5709646642208099
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 8,
+    "unique_event_day_posts": 2,
+    "winner": "Threat",
+    "color": "#9a4949",
+    "means": {
+      "Threat": 0.9930120408535004,
+      "Victory": 0.9874262809753418,
+      "Diplomacy": 0.4533553854562342,
+      "Ceasefire / Ending": 0.21769988909363747,
+      "Blame Allies": 0.0844578891992569,
+      "Media Criticism": 0.6211355924606323
+    },
+    "ties": [
+      "Threat"
+    ]
+  },
+  {
+    "event_index": 9,
+    "unique_event_day_posts": 3,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.6687983411053816,
+      "Victory": 0.9752205610275269,
+      "Diplomacy": 0.4576535769738257,
+      "Ceasefire / Ending": 0.35240496198336285,
+      "Blame Allies": 0.03361580598478516,
+      "Media Criticism": 0.3291671499609947
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 10,
+    "unique_event_day_posts": 3,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.45205995440483093,
+      "Victory": 0.9265565872192383,
+      "Diplomacy": 0.05299568176269531,
+      "Ceasefire / Ending": 0.1309345836440722,
+      "Blame Allies": 0.1694352732350429,
+      "Media Criticism": 0.4561243951320648
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 11,
+    "unique_event_day_posts": 0,
+    "winner": null,
+    "color": "#89919a",
+    "means": {},
+    "ties": []
+  },
+  {
+    "event_index": 12,
+    "unique_event_day_posts": 5,
+    "winner": "Media Criticism",
+    "color": "#2f8f95",
+    "means": {
+      "Threat": 0.19850536564481444,
+      "Victory": 0.3656069093500264,
+      "Diplomacy": 0.23346224138513208,
+      "Ceasefire / Ending": 0.44776749759912493,
+      "Blame Allies": 0.02723085070028901,
+      "Media Criticism": 0.45367096066474916
+    },
+    "ties": [
+      "Media Criticism"
+    ]
+  },
+  {
+    "event_index": 13,
+    "unique_event_day_posts": 1,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.9042803645133972,
+      "Victory": 0.969580888748169,
+      "Diplomacy": 0.0056308237835764885,
+      "Ceasefire / Ending": 0.11962331086397171,
+      "Blame Allies": 0.3110591471195221,
+      "Media Criticism": 0.4142480194568634
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 14,
+    "unique_event_day_posts": 2,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.4999137814156711,
+      "Victory": 0.721044197678566,
+      "Diplomacy": 0.29953390441369265,
+      "Ceasefire / Ending": 0.48477762937545776,
+      "Blame Allies": 0.019667790737003088,
+      "Media Criticism": 0.19468357041478157
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 15,
+    "unique_event_day_posts": 1,
+    "winner": "Threat",
+    "color": "#9a4949",
+    "means": {
+      "Threat": 0.9883502721786499,
+      "Victory": 0.3225049376487732,
+      "Diplomacy": 0.0002647912479005754,
+      "Ceasefire / Ending": 0.10018161684274673,
+      "Blame Allies": 0.08282288908958435,
+      "Media Criticism": 0.4147989749908447
+    },
+    "ties": [
+      "Threat"
+    ]
+  },
+  {
+    "event_index": 16,
+    "unique_event_day_posts": 0,
+    "winner": null,
+    "color": "#89919a",
+    "means": {},
+    "ties": []
+  },
+  {
+    "event_index": 17,
+    "unique_event_day_posts": 0,
+    "winner": null,
+    "color": "#89919a",
+    "means": {},
+    "ties": []
+  },
+  {
+    "event_index": 18,
+    "unique_event_day_posts": 1,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.05928885564208031,
+      "Victory": 0.7600816488265991,
+      "Diplomacy": 0.010527275502681732,
+      "Ceasefire / Ending": 0.040689703077077866,
+      "Blame Allies": 0.039624303579330444,
+      "Media Criticism": 0.2444433718919754
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 19,
+    "unique_event_day_posts": 3,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.41023409614960354,
+      "Victory": 0.7709073126316071,
+      "Diplomacy": 0.3187300885717074,
+      "Ceasefire / Ending": 0.548383375008901,
+      "Blame Allies": 0.028362630575429648,
+      "Media Criticism": 0.36186276997129124
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 20,
+    "unique_event_day_posts": 1,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.0006131006521172822,
+      "Victory": 0.4626886546611786,
+      "Diplomacy": 0.4043828248977661,
+      "Ceasefire / Ending": 0.4603613018989563,
+      "Blame Allies": 0.00208098697476089,
+      "Media Criticism": 0.13530200719833374
+    },
+    "ties": [
+      "Victory"
+    ]
+  },
+  {
+    "event_index": 21,
+    "unique_event_day_posts": 0,
+    "winner": null,
+    "color": "#89919a",
+    "means": {},
+    "ties": []
+  },
+  {
+    "event_index": 22,
+    "unique_event_day_posts": 0,
+    "winner": null,
+    "color": "#89919a",
+    "means": {},
+    "ties": []
+  },
+  {
+    "event_index": 23,
+    "unique_event_day_posts": 3,
+    "winner": "Threat",
+    "color": "#9a4949",
+    "means": {
+      "Threat": 0.6843021909395853,
+      "Victory": 0.652077982823054,
+      "Diplomacy": 0.26983211166225374,
+      "Ceasefire / Ending": 0.45976167917251587,
+      "Blame Allies": 0.07130345438296597,
+      "Media Criticism": 0.4666987458864848
+    },
+    "ties": [
+      "Threat"
+    ]
+  },
+  {
+    "event_index": 24,
+    "unique_event_day_posts": 1,
+    "winner": "Threat",
+    "color": "#9a4949",
+    "means": {
+      "Threat": 0.9994822144508362,
+      "Victory": 0.9651946425437927,
+      "Diplomacy": 0.00027934988611377776,
+      "Ceasefire / Ending": 0.007259785663336515,
+      "Blame Allies": 0.010550477541983128,
+      "Media Criticism": 0.07489487528800964
+    },
+    "ties": [
+      "Threat"
+    ]
+  },
+  {
+    "event_index": 25,
+    "unique_event_day_posts": 2,
+    "winner": "Victory",
+    "color": "#4e7657",
+    "means": {
+      "Threat": 0.18132413923740387,
+      "Victory": 0.530823141336441,
+      "Diplomacy": 0.25103630870580673,
+      "Ceasefire / Ending": 0.3565734997391701,
+      "Blame Allies": 0.19054477009922266,
+      "Media Criticism": 0.28794947639107704
+    },
+    "ties": [
+      "Victory"
+    ]
+  }
+]

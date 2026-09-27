@@ -13,6 +13,10 @@ Explore two model interpretations of the same Trump Truth Social posts using the
 
 This is a comparison of perspectives, not an accuracy leaderboard. A threat can use celebratory language; a high emotion score does not establish the speaker's feelings. DistilBERT's emotion training domain differs from these political posts. Human reference labels would be needed to evaluate accuracy, precision, recall or F1 here. Cross-model score differences are not meaningful probability differences.
 
+## Timeline colors
+
+Bubble color is the highest mean BART rhetoric score among the unique posts in that displayed event-day window. Size retains UCDP significance. Exact ties (within 1e-9 numerical tolerance) split evenly between tied category colors; no scored event-day posts produces a gray bubble. Split areas denote tied leaders, not percentages of rhetoric. Tooltips include the top two mean scores and post count. Colors remain rhetoric-based in the emotion-only view.
+
 ## Data and provenance
 
 - 87 unique posts, 129 displayed appearances, 26 curated event dates; this is not the full corpus.

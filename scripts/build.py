@@ -83,6 +83,9 @@ script=soup.new_tag('script');script.string='''document.addEventListener('DOMCon
 soup.body.append(script)
 for text in soup.find_all(string=True):
  if 'SVG rail rebuilt for clarity' in text: text.replace_with(str(text).replace('; SVG rail rebuilt for clarity',''))
+from color_timeline import color_timeline
+color_rows=color_timeline(soup, posts)
+(out/'data/timeline_colors.json').write_text(json.dumps(color_rows,indent=2)+'\n',encoding='utf-8')
 (out/'index.html').write_text(str(soup),encoding='utf-8')
 (out/'data/event_windows.json').write_text(json.dumps(events,indent=2)+'\n',encoding='utf-8')
 (out/'data/summary.json').write_text(json.dumps(summary,indent=2)+'\n',encoding='utf-8')
