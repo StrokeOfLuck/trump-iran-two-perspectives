@@ -23,9 +23,26 @@ Bubble color is the highest mean BART rhetoric score among the unique posts in t
 - Timeline HTML adapted from [the original portfolio timeline](https://strokeofluck.github.io/sean-data-portfolio/projects/assets/political-text-analysis/trump-iran-connected-timeline.html). Its event descriptions and dates are inherited, not independently reverified for this comparison.
 - Text and BART scores come from [StrokeOfLuck/trump-iran-rhetoric-analysis](https://github.com/StrokeOfLuck/trump-iran-rhetoric-analysis), commit `b6711ed995ec540a22ebc266bb0f809d0f663b36`, files `data/trump_iran_event_windows_unique_dates.csv` and `data/trump_iran_zero_shot_scores_26event_subset.csv`.
 - DistilBERT revision: `11350faca8e85c4861766cec4c30dec55fd06bb9`, identical to Lab 1. Scores were calculated locally from the CSV text, with a 512-token limit and softmax over the six model labels. No included post exceeded the limit. Text hashes and token counts are in `data/scores.json`.
-- BART scores are preserved from the original project, not rerun. The original notebook used `multi_label=True` and `This text expresses {}.` with frame descriptions; it did not record an immutable model revision. Exact historical BART rerun reproducibility is therefore limited.
+- The published timeline preserves the original project's BART scores. A separate fresh local rerun reproduced them at the displayed precision (see **Independent BART rerun** below). The original notebook used `multi_label=True` and `This text expresses {}.` with frame descriptions; it did not record an immutable model revision. Exact historical BART rerun reproducibility is therefore limited.
 - Repeated cards use the same post-level scores. The summaries first average posts within each displayed event/window, then average those means equally across nonempty windows: 20 day-before windows, 21 event-day windows, and 21 day-after windows. Empty windows are excluded rather than treated as zeros.
 - These event windows lack a non-event counterfactual and do not establish prediction or causation.
+
+## Independent BART rerun
+
+On September 27, 2026 (UTC), BART was freshly rerun locally on all **87 unique posts × 6 frames = 522 scores**, using the original frame descriptions, `multi_label=True`, and the hypothesis template `This text expresses {}.`.
+
+- **522/522 post-level scores match the originals at two decimal places.**
+- **18/18 event-balanced summary values match at two decimal places.**
+- **0/87 posts changed their highest-scoring frame.**
+- Mean absolute score difference: **0.0000000931**.
+- Maximum absolute score difference: **0.0000015795**.
+- No posts were truncated.
+
+The fresh run used `facebook/bart-large-mnli` revision `d7645e127eaf1aefc7862fd59a17a5aa8558b8ce`, Python 3.12.14, PyTorch 2.14.0+cpu, and Transformers 4.57.6, on CPU in float32. The tiny differences are consistent with numerical variation; the displayed results reproduce the original analysis. This is a reproducibility check, not an accuracy evaluation.
+
+[Read the detailed rerun comparison, including all 18 summary values →](BART-RERUN-RESULTS.md)
+
+The published timeline still uses the preserved original BART scores. This documentation records the separate fresh run; it does not replace the live site's data. DistilBERT was not rerun in this check.
 
 ## Explore
 
