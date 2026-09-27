@@ -55,7 +55,7 @@ def color_timeline(soup, posts):
         for label,color in {**PALETTE,'No tweet scored on event day':NEUTRAL}.items():
             legend+=f'<span><i style="background:{color}"></i>{label}</span>'
         legend+='<span><i style="background:conic-gradient(#9a4949 0 50%,#4e7657 50% 100%)"></i>Tied leaders: split colors</span>'
-        legend+='</div><details class="rhetoric-color-note"><summary>How to read the bubbles</summary><p>Color: highest average BART score across that event day’s posts. Size: UCDP event significance. Hover or focus a date for the top two scores and post count. Exact ties split evenly between the leading categories; split areas are not probabilities.</p></details>'
+        legend+='</div><details class="rhetoric-color-note"><summary>How to read the bubbles</summary><p>Color: highest average BART rhetoric score across that event day’s posts. Size: UCDP event significance. Hover or focus a date for the top two scores and post count. Exact ties split evenly between the leading categories; split areas are not probabilities.</p></details>'
         header.insert_after(BeautifulSoup(legend,'html.parser'))
     colors=soup.select_one('.rhetoric-color-legend')
     sizes=soup.select_one('.timeline-legend')

@@ -30,7 +30,17 @@
         "Media Criticism": 0.23128555715084076
       },
       "emotion_input_tokens": 72,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.21642273664474487,
+        "joy": 0.07518145442008972,
+        "love": 0.023391449823975563,
+        "anger": 0.22074180841445923,
+        "fear": 0.20678064227104187,
+        "surprise": 0.2574819326400757
+      },
+      "bart_emotion_max_pair_tokens": 84,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116152241303132753",
@@ -56,7 +66,17 @@
         "Media Criticism": 0.45675480365753174
       },
       "emotion_input_tokens": 65,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.12487288564443588,
+        "joy": 0.021044494584202766,
+        "love": 0.015693718567490578,
+        "anger": 0.43205511569976807,
+        "fear": 0.23134389519691467,
+        "surprise": 0.17498987913131714
+      },
+      "bart_emotion_max_pair_tokens": 84,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116150413051904167",
@@ -82,7 +102,17 @@
         "Media Criticism": 0.4097610116004944
       },
       "emotion_input_tokens": 309,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.21707206964492798,
+        "joy": 0.14314711093902588,
+        "love": 0.050814393907785416,
+        "anger": 0.27304887771606445,
+        "fear": 0.11160650849342346,
+        "surprise": 0.20431102812290192
+      },
+      "bart_emotion_max_pair_tokens": 324,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116147572522796874",
@@ -108,7 +138,17 @@
         "Media Criticism": 0.5899282097816467
       },
       "emotion_input_tokens": 67,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2169613391160965,
+        "joy": 0.004320709500461817,
+        "love": 0.00610310398042202,
+        "anger": 0.2990584969520569,
+        "fear": 0.3245108425617218,
+        "surprise": 0.14904549717903137
+      },
+      "bart_emotion_max_pair_tokens": 80,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116152251973821428",
@@ -134,7 +174,17 @@
         "Media Criticism": 0.4854225218296051
       },
       "emotion_input_tokens": 64,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.11969723552465439,
+        "joy": 0.02763916552066803,
+        "love": 0.01879359968006611,
+        "anger": 0.42163845896720886,
+        "fear": 0.23925147950649261,
+        "surprise": 0.17298012971878052
+      },
+      "bart_emotion_max_pair_tokens": 83,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116153963970975385",
@@ -160,7 +210,17 @@
         "Media Criticism": 0.27182379364967346
       },
       "emotion_input_tokens": 71,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.07837492227554321,
+        "joy": 0.5270510315895081,
+        "love": 0.14280234277248383,
+        "anger": 0.04036446660757065,
+        "fear": 0.03604727238416672,
+        "surprise": 0.17535997927188873
+      },
+      "bart_emotion_max_pair_tokens": 79,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116155069503653714",
@@ -186,7 +246,17 @@
         "Media Criticism": 0.3783664107322693
       },
       "emotion_input_tokens": 75,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.13199599087238312,
+        "joy": 0.178033247590065,
+        "love": 0.02239406481385231,
+        "anger": 0.35027292370796204,
+        "fear": 0.07905016094446182,
+        "surprise": 0.23825357854366302
+      },
+      "bart_emotion_max_pair_tokens": 86,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116166926920657651",
@@ -212,7 +282,17 @@
         "Media Criticism": 0.2389475256204605
       },
       "emotion_input_tokens": 134,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.12033438682556152,
+        "joy": 0.13543687760829926,
+        "love": 0.08472611010074615,
+        "anger": 0.20428554713726044,
+        "fear": 0.17650482058525085,
+        "surprise": 0.27871227264404297
+      },
+      "bart_emotion_max_pair_tokens": 162,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116165373479209735",
@@ -238,7 +318,17 @@
         "Media Criticism": 0.8284558653831482
       },
       "emotion_input_tokens": 92,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2299192100763321,
+        "joy": 0.008570198900997639,
+        "love": 0.013843576423823833,
+        "anger": 0.33545759320259094,
+        "fear": 0.17178896069526672,
+        "surprise": 0.240420401096344
+      },
+      "bart_emotion_max_pair_tokens": 120,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116165282347349425",
@@ -264,7 +354,17 @@
         "Media Criticism": 0.6331659555435181
       },
       "emotion_input_tokens": 91,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2948668301105499,
+        "joy": 0.010585274547338486,
+        "love": 0.01251847855746746,
+        "anger": 0.35187479853630066,
+        "fear": 0.16616880893707275,
+        "surprise": 0.16398583352565765
+      },
+      "bart_emotion_max_pair_tokens": 117,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116165200090740839",
@@ -290,7 +390,17 @@
         "Media Criticism": 0.05860140174627304
       },
       "emotion_input_tokens": 39,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.02408401295542717,
+        "joy": 0.2273600548505783,
+        "love": 0.020078035071492195,
+        "anger": 0.5071273446083069,
+        "fear": 0.0410015769302845,
+        "surprise": 0.18034899234771729
+      },
+      "bart_emotion_max_pair_tokens": 46,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116174757064824630",
@@ -316,7 +426,17 @@
         "Media Criticism": 0.070813849568367
       },
       "emotion_input_tokens": 77,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2620960772037506,
+        "joy": 0.08076083660125732,
+        "love": 0.10031794756650925,
+        "anger": 0.07219245284795761,
+        "fear": 0.137138232588768,
+        "surprise": 0.3474944829940796
+      },
+      "bart_emotion_max_pair_tokens": 91,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116177065488835367",
@@ -342,7 +462,17 @@
         "Media Criticism": 0.07623643428087234
       },
       "emotion_input_tokens": 65,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.3138812482357025,
+        "joy": 0.020572064444422722,
+        "love": 0.04044314846396446,
+        "anger": 0.12083180248737335,
+        "fear": 0.19540657103061676,
+        "surprise": 0.3088652491569519
+      },
+      "bart_emotion_max_pair_tokens": 81,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116202053313332968",
@@ -368,7 +498,17 @@
         "Media Criticism": 0.008330503478646278
       },
       "emotion_input_tokens": 56,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.17345911264419556,
+        "joy": 0.12939640879631042,
+        "love": 0.10502134263515472,
+        "anger": 0.15078994631767273,
+        "fear": 0.14213727414608002,
+        "surprise": 0.2991959750652313
+      },
+      "bart_emotion_max_pair_tokens": 68,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116200028617921781",
@@ -394,7 +534,17 @@
         "Media Criticism": 0.32912325859069824
       },
       "emotion_input_tokens": 111,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.12773241102695465,
+        "joy": 0.15769991278648376,
+        "love": 0.3486425280570984,
+        "anger": 0.05770427733659744,
+        "fear": 0.1978292018175125,
+        "surprise": 0.11039166152477264
+      },
+      "bart_emotion_max_pair_tokens": 125,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116199640636892669",
@@ -420,7 +570,17 @@
         "Media Criticism": 0.2749611735343933
       },
       "emotion_input_tokens": 76,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.3640843629837036,
+        "joy": 0.009520301595330238,
+        "love": 0.031425703316926956,
+        "anger": 0.3040674328804016,
+        "fear": 0.1583418995141983,
+        "surprise": 0.13256026804447174
+      },
+      "bart_emotion_max_pair_tokens": 92,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116187586876366061",
@@ -446,7 +606,17 @@
         "Media Criticism": 0.45422831177711487
       },
       "emotion_input_tokens": 208,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2680422365665436,
+        "joy": 0.08628032356500626,
+        "love": 0.11244559288024902,
+        "anger": 0.221403107047081,
+        "fear": 0.12952417135238647,
+        "surprise": 0.18230462074279785
+      },
+      "bart_emotion_max_pair_tokens": 235,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116196014942465383",
@@ -472,7 +642,17 @@
         "Media Criticism": 0.14775033295154572
       },
       "emotion_input_tokens": 53,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.1831492781639099,
+        "joy": 0.07442530989646912,
+        "love": 0.04186106100678444,
+        "anger": 0.26947450637817383,
+        "fear": 0.15348856151103973,
+        "surprise": 0.2776012718677521
+      },
+      "bart_emotion_max_pair_tokens": 70,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116202054617775180",
@@ -498,7 +678,17 @@
         "Media Criticism": 0.2795408368110657
       },
       "emotion_input_tokens": 148,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.15745019912719727,
+        "joy": 0.053043853491544724,
+        "love": 0.04083308205008507,
+        "anger": 0.4305637776851654,
+        "fear": 0.1738279163837433,
+        "surprise": 0.14428119361400604
+      },
+      "bart_emotion_max_pair_tokens": 164,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116256217083523012",
@@ -524,7 +714,17 @@
         "Media Criticism": 0.05938354879617691
       },
       "emotion_input_tokens": 50,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.23761162161827087,
+        "joy": 0.004139744210988283,
+        "love": 0.006467894185334444,
+        "anger": 0.23119144141674042,
+        "fear": 0.26526153087615967,
+        "surprise": 0.25532782077789307
+      },
+      "bart_emotion_max_pair_tokens": 58,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116256215639879243",
@@ -550,7 +750,17 @@
         "Media Criticism": 0.1583491563796997
       },
       "emotion_input_tokens": 54,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.044231805950403214,
+        "joy": 0.5023271441459656,
+        "love": 0.08876156061887741,
+        "anger": 0.18788990378379822,
+        "fear": 0.0574708953499794,
+        "surprise": 0.11931867152452469
+      },
+      "bart_emotion_max_pair_tokens": 69,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116269822349947644",
@@ -576,7 +786,17 @@
         "Media Criticism": 0.19664014875888824
       },
       "emotion_input_tokens": 67,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.1334965080022812,
+        "joy": 0.013433519750833511,
+        "love": 0.008504307828843594,
+        "anger": 0.5738551020622253,
+        "fear": 0.1630321890115738,
+        "surprise": 0.10767830908298492
+      },
+      "bart_emotion_max_pair_tokens": 86,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116269555618597105",
@@ -602,7 +822,17 @@
         "Media Criticism": 0.9379831552505493
       },
       "emotion_input_tokens": 108,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.1434500515460968,
+        "joy": 0.10937491059303284,
+        "love": 0.05681946128606796,
+        "anger": 0.2991794943809509,
+        "fear": 0.08454472571611404,
+        "surprise": 0.3066313564777374
+      },
+      "bart_emotion_max_pair_tokens": 118,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116263563453969628",
@@ -628,7 +858,17 @@
         "Media Criticism": 0.5433580279350281
       },
       "emotion_input_tokens": 246,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.21436023712158203,
+        "joy": 0.13564391434192657,
+        "love": 0.043400026857852936,
+        "anger": 0.23180580139160156,
+        "fear": 0.14959169924259186,
+        "surprise": 0.22519831359386444
+      },
+      "bart_emotion_max_pair_tokens": 267,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116261796648776538",
@@ -654,7 +894,17 @@
         "Media Criticism": 0.8444448113441467
       },
       "emotion_input_tokens": 117,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.23312591016292572,
+        "joy": 0.04059841111302376,
+        "love": 0.02112918719649315,
+        "anger": 0.39919814467430115,
+        "fear": 0.1167418509721756,
+        "surprise": 0.18920648097991943
+      },
+      "bart_emotion_max_pair_tokens": 136,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116255809955960965",
@@ -680,7 +930,17 @@
         "Media Criticism": 0.038409218192100525
       },
       "emotion_input_tokens": 61,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.19987910985946655,
+        "joy": 0.005025522783398628,
+        "love": 0.011758138425648212,
+        "anger": 0.09306913614273071,
+        "fear": 0.5357615351676941,
+        "surprise": 0.15450651943683624
+      },
+      "bart_emotion_max_pair_tokens": 69,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116256218451397252",
@@ -706,7 +966,17 @@
         "Media Criticism": 0.9157688617706299
       },
       "emotion_input_tokens": 88,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.12975163757801056,
+        "joy": 0.0007953884196467698,
+        "love": 0.0019115755567327142,
+        "anger": 0.09884949773550034,
+        "fear": 0.6787373423576355,
+        "surprise": 0.08995448052883148
+      },
+      "bart_emotion_max_pair_tokens": 106,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116295045718240014",
@@ -732,7 +1002,17 @@
         "Media Criticism": 0.30672842264175415
       },
       "emotion_input_tokens": 104,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.16358333826065063,
+        "joy": 0.012933618389070034,
+        "love": 0.018141280859708786,
+        "anger": 0.20908933877944946,
+        "fear": 0.14310598373413086,
+        "surprise": 0.45314645767211914
+      },
+      "bart_emotion_max_pair_tokens": 119,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116294956989451533",
@@ -758,7 +1038,17 @@
         "Media Criticism": 0.3837350904941559
       },
       "emotion_input_tokens": 54,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.20597200095653534,
+        "joy": 0.02172776497900486,
+        "love": 0.032117895781993866,
+        "anger": 0.4019187390804291,
+        "fear": 0.14857496321201324,
+        "surprise": 0.18968862295150757
+      },
+      "bart_emotion_max_pair_tokens": 90,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116297295543838717",
@@ -784,7 +1074,17 @@
         "Media Criticism": 0.6189863681793213
       },
       "emotion_input_tokens": 89,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.29704663157463074,
+        "joy": 0.10293004661798477,
+        "love": 0.053153496235609055,
+        "anger": 0.2125684916973114,
+        "fear": 0.09123577177524567,
+        "surprise": 0.24306553602218628
+      },
+      "bart_emotion_max_pair_tokens": 98,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116302505060458396",
@@ -810,7 +1110,17 @@
         "Media Criticism": 0.21610794961452484
       },
       "emotion_input_tokens": 25,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.10040497034788132,
+        "joy": 0.3647645115852356,
+        "love": 0.03089011274278164,
+        "anger": 0.12209999561309814,
+        "fear": 0.10083673894405365,
+        "surprise": 0.2810036838054657
+      },
+      "bart_emotion_max_pair_tokens": 35,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116308992209421747",
@@ -836,7 +1146,17 @@
         "Media Criticism": 0.20702947676181793
       },
       "emotion_input_tokens": 42,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.16259315609931946,
+        "joy": 0.044496092945337296,
+        "love": 0.0251731276512146,
+        "anger": 0.3126928210258484,
+        "fear": 0.19199465215206146,
+        "surprise": 0.2630501687526703
+      },
+      "bart_emotion_max_pair_tokens": 49,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116309190231389438",
@@ -862,7 +1182,17 @@
         "Media Criticism": 0.2655037045478821
       },
       "emotion_input_tokens": 53,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.19327136874198914,
+        "joy": 0.1503649204969406,
+        "love": 0.0181052777916193,
+        "anger": 0.11811527609825134,
+        "fear": 0.2128313034772873,
+        "surprise": 0.30731186270713806
+      },
+      "bart_emotion_max_pair_tokens": 67,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116317880658472708",
@@ -888,7 +1218,17 @@
         "Media Criticism": 0.29395726323127747
       },
       "emotion_input_tokens": 171,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.24026283621788025,
+        "joy": 0.07003819197416306,
+        "love": 0.0797249898314476,
+        "anger": 0.2966831922531128,
+        "fear": 0.13058418035507202,
+        "surprise": 0.1827065348625183
+      },
+      "bart_emotion_max_pair_tokens": 193,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116315768155415029",
@@ -914,7 +1254,17 @@
         "Media Criticism": 0.16255000233650208
       },
       "emotion_input_tokens": 40,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.09153194725513458,
+        "joy": 0.27321481704711914,
+        "love": 0.2831728458404541,
+        "anger": 0.0819215476512909,
+        "fear": 0.07046307623386383,
+        "surprise": 0.19969569146633148
+      },
+      "bart_emotion_max_pair_tokens": 52,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116318120548204193",
@@ -940,7 +1290,17 @@
         "Media Criticism": 0.05276348814368248
       },
       "emotion_input_tokens": 54,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.208884596824646,
+        "joy": 0.008105609565973282,
+        "love": 0.010010229423642159,
+        "anger": 0.11339966952800751,
+        "fear": 0.416280061006546,
+        "surprise": 0.24331989884376526
+      },
+      "bart_emotion_max_pair_tokens": 65,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116323516183718262",
@@ -966,7 +1326,17 @@
         "Media Criticism": 0.6070181131362915
       },
       "emotion_input_tokens": 65,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.23009811341762543,
+        "joy": 0.05968182533979416,
+        "love": 0.030552446842193604,
+        "anger": 0.32007452845573425,
+        "fear": 0.178288534283638,
+        "surprise": 0.18130454421043396
+      },
+      "bart_emotion_max_pair_tokens": 79,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116323481956698353",
@@ -992,7 +1362,17 @@
         "Media Criticism": 0.5349112153053284
       },
       "emotion_input_tokens": 146,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.18471749126911163,
+        "joy": 0.051810115575790405,
+        "love": 0.04614029824733734,
+        "anger": 0.31701555848121643,
+        "fear": 0.20264898240566254,
+        "surprise": 0.19766764342784882
+      },
+      "bart_emotion_max_pair_tokens": 159,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116329512466946656",
@@ -1018,7 +1398,17 @@
         "Media Criticism": 0.5223114490509033
       },
       "emotion_input_tokens": 75,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.19020436704158783,
+        "joy": 0.020615028217434883,
+        "love": 0.008230088278651237,
+        "anger": 0.3725941777229309,
+        "fear": 0.1679801195859909,
+        "surprise": 0.24037618935108185
+      },
+      "bart_emotion_max_pair_tokens": 89,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116332855637584819",
@@ -1044,7 +1434,17 @@
         "Media Criticism": 0.07946918904781342
       },
       "emotion_input_tokens": 65,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.19919715821743011,
+        "joy": 0.16035927832126617,
+        "love": 0.11578959226608276,
+        "anger": 0.10224547237157822,
+        "fear": 0.14100085198879242,
+        "surprise": 0.2814076840877533
+      },
+      "bart_emotion_max_pair_tokens": 73,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116338464010194156",
@@ -1070,7 +1470,17 @@
         "Media Criticism": 0.6893454194068909
       },
       "emotion_input_tokens": 64,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.1319160908460617,
+        "joy": 0.01932802051305771,
+        "love": 0.008573714643716812,
+        "anger": 0.45450472831726074,
+        "fear": 0.1564054638147354,
+        "surprise": 0.2292720079421997
+      },
+      "bart_emotion_max_pair_tokens": 78,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116340751005894827",
@@ -1096,7 +1506,17 @@
         "Media Criticism": 0.727604866027832
       },
       "emotion_input_tokens": 46,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.08050147444009781,
+        "joy": 0.055979106575250626,
+        "love": 0.014825928956270218,
+        "anger": 0.27720993757247925,
+        "fear": 0.1360892951488495,
+        "surprise": 0.4353943169116974
+      },
+      "bart_emotion_max_pair_tokens": 65,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116336091138489301",
@@ -1122,7 +1542,17 @@
         "Media Criticism": 0.5529257655143738
       },
       "emotion_input_tokens": 56,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.20097778737545013,
+        "joy": 0.012329856865108013,
+        "love": 0.007304474711418152,
+        "anger": 0.5025067925453186,
+        "fear": 0.1492757648229599,
+        "surprise": 0.12760524451732635
+      },
+      "bart_emotion_max_pair_tokens": 80,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116351998782539414",
@@ -1148,7 +1578,17 @@
         "Media Criticism": 0.8001306653022766
       },
       "emotion_input_tokens": 64,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.03461608290672302,
+        "joy": 0.07029251754283905,
+        "love": 0.026423394680023193,
+        "anger": 0.6233528256416321,
+        "fear": 0.12156632542610168,
+        "surprise": 0.12374885380268097
+      },
+      "bart_emotion_max_pair_tokens": 77,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116351956955900185",
@@ -1174,7 +1614,17 @@
         "Media Criticism": 0.3115907609462738
       },
       "emotion_input_tokens": 153,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.06603822857141495,
+        "joy": 0.20593775808811188,
+        "love": 0.20548085868358612,
+        "anger": 0.04889781400561333,
+        "fear": 0.0651848167181015,
+        "surprise": 0.40846049785614014
+      },
+      "bart_emotion_max_pair_tokens": 174,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116348358117196662",
@@ -1200,7 +1650,17 @@
         "Media Criticism": 0.45311251282691956
       },
       "emotion_input_tokens": 40,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.187188521027565,
+        "joy": 0.04310636222362518,
+        "love": 0.005658001638948917,
+        "anger": 0.4665464758872986,
+        "fear": 0.1411927491426468,
+        "surprise": 0.15630784630775452
+      },
+      "bart_emotion_max_pair_tokens": 52,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116346686438015338",
@@ -1226,7 +1686,17 @@
         "Media Criticism": 0.06680012494325638
       },
       "emotion_input_tokens": 57,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.01647450588643551,
+        "joy": 0.3973769545555115,
+        "love": 0.2923988699913025,
+        "anger": 0.05533319339156151,
+        "fear": 0.017733467742800713,
+        "surprise": 0.2206829935312271
+      },
+      "bart_emotion_max_pair_tokens": 69,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116346816254869135",
@@ -1252,7 +1722,17 @@
         "Media Criticism": 0.4675888121128082
       },
       "emotion_input_tokens": 48,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.06621988862752914,
+        "joy": 0.23751696944236755,
+        "love": 0.1181807592511177,
+        "anger": 0.2827237844467163,
+        "fear": 0.17700791358947754,
+        "surprise": 0.11835070699453354
+      },
+      "bart_emotion_max_pair_tokens": 62,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116350133044957842",
@@ -1278,7 +1758,17 @@
         "Media Criticism": 0.25665175914764404
       },
       "emotion_input_tokens": 373,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.04852408915758133,
+        "joy": 0.35085591673851013,
+        "love": 0.209221750497818,
+        "anger": 0.03534653037786484,
+        "fear": 0.08627516031265259,
+        "surprise": 0.26977652311325073
+      },
+      "bart_emotion_max_pair_tokens": 403,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116367005523554168",
@@ -1304,7 +1794,17 @@
         "Media Criticism": 0.9083788990974426
       },
       "emotion_input_tokens": 88,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.0663609653711319,
+        "joy": 0.002894170582294464,
+        "love": 0.007672523148357868,
+        "anger": 0.17587924003601074,
+        "fear": 0.1567665934562683,
+        "surprise": 0.590426504611969
+      },
+      "bart_emotion_max_pair_tokens": 97,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116366146721038653",
@@ -1330,7 +1830,17 @@
         "Media Criticism": 0.5234942436218262
       },
       "emotion_input_tokens": 144,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.21347010135650635,
+        "joy": 0.03493261709809303,
+        "love": 0.045047108083963394,
+        "anger": 0.2979908585548401,
+        "fear": 0.13694985210895538,
+        "surprise": 0.27160948514938354
+      },
+      "bart_emotion_max_pair_tokens": 161,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116366072136989268",
@@ -1356,7 +1866,17 @@
         "Media Criticism": 0.037512585520744324
       },
       "emotion_input_tokens": 7,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.15210513770580292,
+        "joy": 0.09992600977420807,
+        "love": 0.15003901720046997,
+        "anger": 0.21144714951515198,
+        "fear": 0.12276681512594223,
+        "surprise": 0.2637158930301666
+      },
+      "bart_emotion_max_pair_tokens": 21,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116365796713313030",
@@ -1382,7 +1902,17 @@
         "Media Criticism": 0.5555731058120728
       },
       "emotion_input_tokens": 244,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.13070984184741974,
+        "joy": 0.3221104145050049,
+        "love": 0.09756006300449371,
+        "anger": 0.1281813532114029,
+        "fear": 0.08591779321432114,
+        "surprise": 0.23552054166793823
+      },
+      "bart_emotion_max_pair_tokens": 263,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116363336033995961",
@@ -1408,7 +1938,17 @@
         "Media Criticism": 0.24339596927165985
       },
       "emotion_input_tokens": 114,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.26014259457588196,
+        "joy": 0.021563952788710594,
+        "love": 0.024560151621699333,
+        "anger": 0.13564381003379822,
+        "fear": 0.3544619679450989,
+        "surprise": 0.2036276012659073
+      },
+      "bart_emotion_max_pair_tokens": 122,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116372694697146221",
@@ -1434,7 +1974,17 @@
         "Media Criticism": 0.3732764720916748
       },
       "emotion_input_tokens": 165,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.09788145869970322,
+        "joy": 0.08850163221359253,
+        "love": 0.0364263616502285,
+        "anger": 0.24450092017650604,
+        "fear": 0.21144551038742065,
+        "surprise": 0.3212440609931946
+      },
+      "bart_emotion_max_pair_tokens": 189,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116369934305888462",
@@ -1460,7 +2010,17 @@
         "Media Criticism": 0.2570740580558777
       },
       "emotion_input_tokens": 162,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2781886160373688,
+        "joy": 0.024722125381231308,
+        "love": 0.035127490758895874,
+        "anger": 0.24742288887500763,
+        "fear": 0.11733604222536087,
+        "surprise": 0.29720279574394226
+      },
+      "bart_emotion_max_pair_tokens": 190,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116368825638596650",
@@ -1486,7 +2046,17 @@
         "Media Criticism": 0.19696104526519775
       },
       "emotion_input_tokens": 136,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.10737745463848114,
+        "joy": 0.24600207805633545,
+        "love": 0.11522900313138962,
+        "anger": 0.10700009763240814,
+        "fear": 0.09645956009626389,
+        "surprise": 0.3279317617416382
+      },
+      "bart_emotion_max_pair_tokens": 152,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116367088879643074",
@@ -1512,7 +2082,17 @@
         "Media Criticism": 0.48831573128700256
       },
       "emotion_input_tokens": 137,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.0371505506336689,
+        "joy": 0.6041533946990967,
+        "love": 0.11752926558256149,
+        "anger": 0.03607087954878807,
+        "fear": 0.023617735132575035,
+        "surprise": 0.18147806823253632
+      },
+      "bart_emotion_max_pair_tokens": 149,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116368854361048135",
@@ -1538,7 +2118,17 @@
         "Media Criticism": 0.2693726420402527
       },
       "emotion_input_tokens": 47,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.19669777154922485,
+        "joy": 0.013380344957113266,
+        "love": 0.005412089638411999,
+        "anger": 0.35283172130584717,
+        "fear": 0.22999611496925354,
+        "surprise": 0.2016819268465042
+      },
+      "bart_emotion_max_pair_tokens": 55,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116372497116210545",
@@ -1564,7 +2154,17 @@
         "Media Criticism": 0.9976028800010681
       },
       "emotion_input_tokens": 56,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2129690796136856,
+        "joy": 0.03221868723630905,
+        "love": 0.021641051396727562,
+        "anger": 0.4014418423175812,
+        "fear": 0.15100179612636566,
+        "surprise": 0.18072757124900818
+      },
+      "bart_emotion_max_pair_tokens": 72,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116524418935002706",
@@ -1590,7 +2190,17 @@
         "Media Criticism": 0.0974903404712677
       },
       "emotion_input_tokens": 110,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.22140416502952576,
+        "joy": 0.15338964760303497,
+        "love": 0.03423779830336571,
+        "anger": 0.17699651420116425,
+        "fear": 0.1204308271408081,
+        "surprise": 0.2935410141944885
+      },
+      "bart_emotion_max_pair_tokens": 122,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116517438678419639",
@@ -1616,7 +2226,17 @@
         "Media Criticism": 0.4142480194568634
       },
       "emotion_input_tokens": 135,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.18296830356121063,
+        "joy": 0.06621304154396057,
+        "love": 0.02733878791332245,
+        "anger": 0.40102532505989075,
+        "fear": 0.12054188549518585,
+        "surprise": 0.2019127756357193
+      },
+      "bart_emotion_max_pair_tokens": 158,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116512555123589170",
@@ -1642,7 +2262,17 @@
         "Media Criticism": 0.4018090069293976
       },
       "emotion_input_tokens": 413,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.17940136790275574,
+        "joy": 0.19924303889274597,
+        "love": 0.11067497730255127,
+        "anger": 0.12388651818037033,
+        "fear": 0.05425876006484032,
+        "surprise": 0.3325352668762207
+      },
+      "bart_emotion_max_pair_tokens": 431,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116816735268373974",
@@ -1668,7 +2298,17 @@
         "Media Criticism": 0.7466318607330322
       },
       "emotion_input_tokens": 65,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.12938529253005981,
+        "joy": 0.07576105743646622,
+        "love": 0.10384870320558548,
+        "anger": 0.22955253720283508,
+        "fear": 0.07304012030363083,
+        "surprise": 0.3884122967720032
+      },
+      "bart_emotion_max_pair_tokens": 80,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116817203281419093",
@@ -1694,7 +2334,17 @@
         "Media Criticism": 0.4740145802497864
       },
       "emotion_input_tokens": 86,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2766163647174835,
+        "joy": 0.013068783096969128,
+        "love": 0.012309396639466286,
+        "anger": 0.36804208159446716,
+        "fear": 0.15042325854301453,
+        "surprise": 0.17954012751579285
+      },
+      "bart_emotion_max_pair_tokens": 102,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116824603632739697",
@@ -1720,7 +2370,17 @@
         "Media Criticism": 0.35587140917778015
       },
       "emotion_input_tokens": 87,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.16367481648921967,
+        "joy": 0.019383681938052177,
+        "love": 0.006084619555622339,
+        "anger": 0.4556258022785187,
+        "fear": 0.19808080792427063,
+        "surprise": 0.1571502536535263
+      },
+      "bart_emotion_max_pair_tokens": 98,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116825706034291064",
@@ -1746,7 +2406,17 @@
         "Media Criticism": 0.03349573165178299
       },
       "emotion_input_tokens": 63,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.06438664346933365,
+        "joy": 0.17921270430088043,
+        "love": 0.12537330389022827,
+        "anger": 0.06413217633962631,
+        "fear": 0.07852309942245483,
+        "surprise": 0.4883720874786377
+      },
+      "bart_emotion_max_pair_tokens": 75,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116825821568797363",
@@ -1772,7 +2442,17 @@
         "Media Criticism": 0.9653729796409607
       },
       "emotion_input_tokens": 197,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.1464916169643402,
+        "joy": 0.0326547771692276,
+        "love": 0.10330939292907715,
+        "anger": 0.34693393111228943,
+        "fear": 0.13550929725170135,
+        "surprise": 0.23510096967220306
+      },
+      "bart_emotion_max_pair_tokens": 215,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116886505160658220",
@@ -1798,7 +2478,17 @@
         "Media Criticism": 0.4147989749908447
       },
       "emotion_input_tokens": 27,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.1809389293193817,
+        "joy": 0.0016113794408738613,
+        "love": 0.0009223271044902503,
+        "anger": 0.4806484878063202,
+        "fear": 0.22170577943325043,
+        "surprise": 0.11417307704687119
+      },
+      "bart_emotion_max_pair_tokens": 38,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116896167446779964",
@@ -1824,7 +2514,17 @@
         "Media Criticism": 0.2898508310317993
       },
       "emotion_input_tokens": 58,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.31726497411727905,
+        "joy": 0.021305782720446587,
+        "love": 0.010195483453571796,
+        "anger": 0.34870481491088867,
+        "fear": 0.11365966498851776,
+        "surprise": 0.18886922299861908
+      },
+      "bart_emotion_max_pair_tokens": 73,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116899176820572671",
@@ -1850,7 +2550,17 @@
         "Media Criticism": 0.3296421468257904
       },
       "emotion_input_tokens": 120,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.10829772800207138,
+        "joy": 0.1659536361694336,
+        "love": 0.014082527719438076,
+        "anger": 0.31577786803245544,
+        "fear": 0.25768738985061646,
+        "surprise": 0.13820086419582367
+      },
+      "bart_emotion_max_pair_tokens": 135,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116913091653271692",
@@ -1876,7 +2586,17 @@
         "Media Criticism": 0.2444433718919754
       },
       "emotion_input_tokens": 164,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.21991898119449615,
+        "joy": 0.12257435917854309,
+        "love": 0.058376554399728775,
+        "anger": 0.2194177210330963,
+        "fear": 0.11115512251853943,
+        "surprise": 0.2685573101043701
+      },
+      "bart_emotion_max_pair_tokens": 186,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116918800567887958",
@@ -1902,7 +2622,17 @@
         "Media Criticism": 0.5947418212890625
       },
       "emotion_input_tokens": 63,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.15513283014297485,
+        "joy": 0.05085872486233711,
+        "love": 0.04922660067677498,
+        "anger": 0.17230167984962463,
+        "fear": 0.1519167572259903,
+        "surprise": 0.42056339979171753
+      },
+      "bart_emotion_max_pair_tokens": 77,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116918822625387784",
@@ -1928,7 +2658,17 @@
         "Media Criticism": 0.05666417255997658
       },
       "emotion_input_tokens": 60,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.20152007043361664,
+        "joy": 0.13091349601745605,
+        "love": 0.042820628732442856,
+        "anger": 0.14856252074241638,
+        "fear": 0.10638341307640076,
+        "surprise": 0.3697999119758606
+      },
+      "bart_emotion_max_pair_tokens": 71,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116918941071241802",
@@ -1954,7 +2694,17 @@
         "Media Criticism": 0.4341823160648346
       },
       "emotion_input_tokens": 333,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.06737428158521652,
+        "joy": 0.2925240397453308,
+        "love": 0.09050789475440979,
+        "anger": 0.20963706076145172,
+        "fear": 0.0708676278591156,
+        "surprise": 0.2690890431404114
+      },
+      "bart_emotion_max_pair_tokens": 359,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116926450735170990",
@@ -1980,7 +2730,17 @@
         "Media Criticism": 0.13530200719833374
       },
       "emotion_input_tokens": 67,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.069332554936409,
+        "joy": 0.40925413370132446,
+        "love": 0.38332727551460266,
+        "anger": 0.011261194944381714,
+        "fear": 0.01912257820367813,
+        "surprise": 0.10770227760076523
+      },
+      "bart_emotion_max_pair_tokens": 81,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116946506480346191",
@@ -2006,7 +2766,17 @@
         "Media Criticism": 0.31740811467170715
       },
       "emotion_input_tokens": 35,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.23330698907375336,
+        "joy": 0.04278295487165451,
+        "love": 0.026809487491846085,
+        "anger": 0.28139325976371765,
+        "fear": 0.20888489484786987,
+        "surprise": 0.2068224549293518
+      },
+      "bart_emotion_max_pair_tokens": 47,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116953296612438865",
@@ -2032,7 +2802,17 @@
         "Media Criticism": 0.2211197018623352
       },
       "emotion_input_tokens": 58,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.14778827130794525,
+        "joy": 0.009001646190881729,
+        "love": 0.006338987033814192,
+        "anger": 0.5625566840171814,
+        "fear": 0.1694718450307846,
+        "surprise": 0.10484257340431213
+      },
+      "bart_emotion_max_pair_tokens": 71,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116953334292806992",
@@ -2058,7 +2838,17 @@
         "Media Criticism": 0.528052031993866
       },
       "emotion_input_tokens": 103,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.20392680168151855,
+        "joy": 0.021652687340974808,
+        "love": 0.014334025792777538,
+        "anger": 0.39487603306770325,
+        "fear": 0.16857653856277466,
+        "surprise": 0.19663389027118683
+      },
+      "bart_emotion_max_pair_tokens": 118,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116954623645571071",
@@ -2084,7 +2874,17 @@
         "Media Criticism": 0.6509245038032532
       },
       "emotion_input_tokens": 144,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.05068053677678108,
+        "joy": 0.3820423483848572,
+        "love": 0.288316547870636,
+        "anger": 0.03376638889312744,
+        "fear": 0.04423380270600319,
+        "surprise": 0.20096038281917572
+      },
+      "bart_emotion_max_pair_tokens": 159,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116959705309751797",
@@ -2110,7 +2910,17 @@
         "Media Criticism": 0.22070926427841187
       },
       "emotion_input_tokens": 72,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.28893527388572693,
+        "joy": 0.005237891338765621,
+        "love": 0.024192793294787407,
+        "anger": 0.2853783369064331,
+        "fear": 0.1649075746536255,
+        "surprise": 0.2313481867313385
+      },
+      "bart_emotion_max_pair_tokens": 93,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116963738416841583",
@@ -2136,7 +2946,17 @@
         "Media Criticism": 0.07489487528800964
       },
       "emotion_input_tokens": 85,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.1558864712715149,
+        "joy": 0.06192562356591225,
+        "love": 0.012525941245257854,
+        "anger": 0.48723915219306946,
+        "fear": 0.14579468965530396,
+        "surprise": 0.1366281807422638
+      },
+      "bart_emotion_max_pair_tokens": 99,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116969149016233329",
@@ -2162,7 +2982,17 @@
         "Media Criticism": 0.18917216360569
       },
       "emotion_input_tokens": 105,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.12896201014518738,
+        "joy": 0.3031891882419586,
+        "love": 0.11268814653158188,
+        "anger": 0.09692174941301346,
+        "fear": 0.07465839385986328,
+        "surprise": 0.2835805118083954
+      },
+      "bart_emotion_max_pair_tokens": 115,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116969243226176328",
@@ -2188,7 +3018,17 @@
         "Media Criticism": 0.22911132872104645
       },
       "emotion_input_tokens": 168,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.38223475217819214,
+        "joy": 0.011811133474111557,
+        "love": 0.007516571320593357,
+        "anger": 0.3461940884590149,
+        "fear": 0.08106808364391327,
+        "surprise": 0.17117531597614288
+      },
+      "bart_emotion_max_pair_tokens": 174,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116971555718513784",
@@ -2214,7 +3054,17 @@
         "Media Criticism": 0.0051079136319458485
       },
       "emotion_input_tokens": 90,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.2772783935070038,
+        "joy": 0.1461252123117447,
+        "love": 0.06549478322267532,
+        "anger": 0.16370901465415955,
+        "fear": 0.12566202878952026,
+        "surprise": 0.221730574965477
+      },
+      "bart_emotion_max_pair_tokens": 99,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116975606621428184",
@@ -2240,7 +3090,17 @@
         "Media Criticism": 0.4870915114879608
       },
       "emotion_input_tokens": 196,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.26697275042533875,
+        "joy": 0.0743267685174942,
+        "love": 0.07504270225763321,
+        "anger": 0.1357669085264206,
+        "fear": 0.14364543557167053,
+        "surprise": 0.3042454421520233
+      },
+      "bart_emotion_max_pair_tokens": 206,
+      "bart_emotion_truncated": false
     },
     {
       "truth_id": "116976024406805765",
@@ -2266,7 +3126,40 @@
         "Media Criticism": 0.08880744129419327
       },
       "emotion_input_tokens": 58,
-      "emotion_truncated": false
+      "emotion_truncated": false,
+      "bart_emotion": {
+        "sadness": 0.10528456419706345,
+        "joy": 0.17787890136241913,
+        "love": 0.40387964248657227,
+        "anger": 0.031847260892391205,
+        "fear": 0.11980804055929184,
+        "surprise": 0.1613016277551651
+      },
+      "bart_emotion_max_pair_tokens": 76,
+      "bart_emotion_truncated": false
     }
-  ]
+  ],
+  "bart_emotion_run": {
+    "model": "facebook/bart-large-mnli",
+    "revision": "d7645e127eaf1aefc7862fd59a17a5aa8558b8ce",
+    "candidate_labels": {
+      "sadness": "sadness or unhappiness",
+      "joy": "happiness or joy",
+      "love": "love or affection",
+      "anger": "anger or frustration",
+      "fear": "fear or anxiety",
+      "surprise": "surprise or astonishment"
+    },
+    "hypothesis_template": "This text expresses {}.",
+    "multi_label": false,
+    "max_length": 1024,
+    "truncation": "only_first",
+    "device": "cpu",
+    "torch": "2.14.0+cpu",
+    "transformers": "4.57.6",
+    "utc": "2026-09-27T04:56:25.932730+00:00",
+    "truncated_posts": 0,
+    "reference_labels": null,
+    "source_settings": "Lab 1 selected formulation B; no tuning on the Trump posts."
+  }
 }
