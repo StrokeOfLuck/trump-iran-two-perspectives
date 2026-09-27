@@ -50,12 +50,12 @@ def color_timeline(soup, posts):
     header=soup.select_one('.global-timeline-title')
     if header:
         strong=header.find('strong')
-        if strong: strong.string='Event timeline · color = leading rhetoric'
+        if strong: strong.string='Event timeline'
         legend='<div class="rhetoric-color-legend" aria-label="Rhetoric color legend">'
-        for label,color in {**PALETTE,'No scored posts':NEUTRAL}.items():
+        for label,color in {**PALETTE,'No tweet scored on event day':NEUTRAL}.items():
             legend+=f'<span><i style="background:{color}"></i>{label}</span>'
         legend+='<span><i style="background:conic-gradient(#9a4949 0 50%,#4e7657 50% 100%)"></i>Tied leaders: split colors</span>'
-        legend+='</div><p class="rhetoric-color-note">Color: highest average BART score across that event day’s posts. Size: UCDP event significance. Hover or focus a date for the top two scores and post count. Exact ties split evenly between the leading categories; split areas are not probabilities.</p>'
+        legend+='</div><details class="rhetoric-color-note"><summary>How to read the bubbles</summary><p>Color: highest average BART score across that event day’s posts. Size: UCDP event significance. Hover or focus a date for the top two scores and post count. Exact ties split evenly between the leading categories; split areas are not probabilities.</p></details>'
         header.insert_after(BeautifulSoup(legend,'html.parser'))
     for item in soup.find_all(string=True):
         if 'Circle size/darkness = event significance' in item:
@@ -69,6 +69,7 @@ def color_timeline(soup, posts):
             for bar in row.select('.dual-fill'): bar['style']+=';background:'+PALETTE[label]+';'
     style=soup.new_tag('style',id='rhetoric-timeline-colors')
     style.string='\n'.join(rules)+'''\n.rhetoric-color-legend{display:flex;flex-wrap:wrap;gap:9px 18px;padding:6px 16px;color:#374557;font-size:12px}.rhetoric-color-legend span{display:inline-flex;align-items:center;gap:6px}.rhetoric-color-legend i{display:inline-block;width:11px;height:11px;border-radius:50%}.rhetoric-color-note{padding:0 16px;margin:5px 0 10px;font-size:12px;color:#526173;line-height:1.5}.svg-timeline .timeline-svg-event.context .timeline-svg-dot{stroke-dasharray:2 2;stroke:#526173!important;}'''
+    style.string += "\n/* Compact, aligned timeline legend */\n.global-timeline-title{display:flex!important;align-items:center!important;justify-content:space-between!important;flex-direction:row!important;gap:12px 24px!important;flex-wrap:wrap!important;margin-bottom:12px!important;padding:0!important}.global-timeline-title>strong{font-size:14px!important;white-space:nowrap}.global-timeline-title::after{display:none!important}.timeline-legend{display:flex!important;align-items:center!important;gap:14px!important;flex-wrap:wrap!important;margin:0!important}.timeline-legend:before{content:\"SIZE\";font-size:10px;font-weight:700;letter-spacing:.09em;color:#697586}.timeline-legend .legend-item{white-space:nowrap}.rhetoric-color-legend{display:flex!important;align-items:center!important;flex-wrap:wrap!important;gap:10px 18px!important;padding:10px 0 0!important;border-top:1px solid #e0e5e9;margin:0!important;font-size:12px!important}.rhetoric-color-legend:before{content:\"COLOR\";font-size:10px;font-weight:700;letter-spacing:.09em;color:#697586}.rhetoric-color-legend>span{white-space:nowrap}.rhetoric-color-note{padding:0!important;margin:10px 0 0!important;font-size:12px!important;max-width:900px}.rhetoric-color-note summary{cursor:pointer;display:inline-flex;align-items:center;gap:5px;color:#526173;font-weight:600}.rhetoric-color-note summary:before{content:\"ⓘ\";font-size:14px}.rhetoric-color-note p{margin:7px 0 0;line-height:1.5}.rhetoric-color-note:not([open]){margin-top:8px!important}@media(max-width:700px){.global-timeline-title{align-items:flex-start!important;gap:10px!important}.timeline-legend{gap:10px!important}.rhetoric-color-legend{gap:9px 14px!important}.rhetoric-color-legend>span{white-space:normal}}\n"
     soup.head.append(style)
     if definitions:
         soup.body.append(BeautifulSoup('<svg id="rhetoric-tie-definitions" width="0" height="0" aria-hidden="true" style="position:absolute"><defs>'+''.join(definitions)+'</defs></svg>','html.parser'))
