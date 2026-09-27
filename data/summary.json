@@ -1,0 +1,78 @@
+{
+  "rhetoric": {
+    "Day before": {
+      "event_count": 20,
+      "post_appearances": 40,
+      "values": {
+        "Threat": 0.5476339321273068,
+        "Victory": 0.6729612269982075,
+        "Diplomacy": 0.222735445581687,
+        "Ceasefire / Ending": 0.34289052658714353,
+        "Blame Allies": 0.07084261536777679,
+        "Media Criticism": 0.34286164434161037
+      }
+    },
+    "Event day": {
+      "event_count": 21,
+      "post_appearances": 40,
+      "values": {
+        "Threat": 0.5244780239912438,
+        "Victory": 0.7611159462472498,
+        "Diplomacy": 0.20924540703242187,
+        "Ceasefire / Ending": 0.3279236771417634,
+        "Blame Allies": 0.12468281057090425,
+        "Media Criticism": 0.33287014830561856
+      }
+    },
+    "Day after": {
+      "event_count": 21,
+      "post_appearances": 49,
+      "values": {
+        "Threat": 0.4845270719814358,
+        "Victory": 0.6996707000686521,
+        "Diplomacy": 0.27170955790668755,
+        "Ceasefire / Ending": 0.39100891781050623,
+        "Blame Allies": 0.1123854595546921,
+        "Media Criticism": 0.3511452108917255
+      }
+    }
+  },
+  "emotion": {
+    "Day before": {
+      "event_count": 20,
+      "post_appearances": 40,
+      "values": {
+        "sadness": 0.07584995640596996,
+        "joy": 0.5327783018442763,
+        "love": 0.03389866049189247,
+        "anger": 0.2938058176667255,
+        "fear": 0.0556878260441105,
+        "surprise": 0.007979426487751577
+      }
+    },
+    "Event day": {
+      "event_count": 21,
+      "post_appearances": 40,
+      "values": {
+        "sadness": 0.03744214137915396,
+        "joy": 0.4711385925139655,
+        "love": 0.03566850763061897,
+        "anger": 0.43326591087522776,
+        "fear": 0.01786230409010646,
+        "surprise": 0.004622533267095042
+      }
+    },
+    "Day after": {
+      "event_count": 21,
+      "post_appearances": 49,
+      "values": {
+        "sadness": 0.06412545477113103,
+        "joy": 0.5156458419645557,
+        "love": 0.03570256820331986,
+        "anger": 0.3447492659705902,
+        "fear": 0.03496597347411952,
+        "surprise": 0.004810895774252934
+      }
+    }
+  }
+}
