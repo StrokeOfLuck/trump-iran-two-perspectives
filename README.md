@@ -1,5 +1,7 @@
 # Trump–Iran: Emotion & Rhetoric
 
+**[Open the interactive timeline →](https://strokeofluck.github.io/trump-iran-two-perspectives/)**
+
 Explore two model interpretations of the same Trump Truth Social posts using the original connected event timeline. Each card pairs existing BART rhetorical-frame scores with newly computed DistilBERT emotion scores. The original project is preserved separately.
 
 ## What is being compared?
